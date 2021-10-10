@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringRecipeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-25T22:26:42" hostname="strix" time="0.024">
+  <properties/>
+  <testcase name="stringRecipe()" classname="StringRecipeTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
